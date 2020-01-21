@@ -22,7 +22,7 @@ Tiedostot tsconfig.json, .eslintrc ja .prettierrc sisältävät koodin tyyppi- j
 
 ## Konfigurointi
 
-Työkaluun on laitettava `credentials.json` tiedosto, joka toimii samalla tavalla, kun googlen node.js quickstart https://developers.google.com/calendar/quickstart/nodejs
+Työkaluun on laitettava `credentials.json` tiedosto, joka toimii samalla tavalla, kuin googlen node.js quickstart https://developers.google.com/calendar/quickstart/nodejs
 
 Työkaluun on myös kirjauduttava google-tunnuksilla, jotka ovat tilanneet kyseiset kalenterit. Ohjeet tulostuvat komentoriville.
 
